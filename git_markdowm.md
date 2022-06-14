@@ -1,5 +1,5 @@
 # Краткая инструкция Git ##
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png)
+![](https://cs9.pikabu.ru/post_img/2019/09/30/10/1569865493165237986.jpg)
 
 
 ### Содержание ###
