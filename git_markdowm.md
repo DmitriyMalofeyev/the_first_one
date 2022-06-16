@@ -17,9 +17,9 @@
 ### **git init** ###
 >Пример написания: `PS D:\Git education> git init`.
   
-Эта команда создаёт в текущем каталоге новый подкаталог с именем .git, содержащий все необходимые файлы репозитория — структуру Git репозитория.
+Эта коGJdjf;dfkgfb;dfmbk,cmb;dfgmdf;lgkd;fgd;fkgj;dfgj;dfmg;dfgmdf;gm;dfglkdf;jgdfh;fgmdf;gmщем каталоге новый подкаталог с именем .git, содержащий все необходимые файлы репозитория — структуру Git репозитория.
 
-
+q
 ### **git add** ###
 
 >Пример написания: `PS D:\Git education> git add file.docx`.
@@ -71,3 +71,17 @@
 в исходное окно терминала.
 
 С подробной инструкцией по работе с Git можно ознакомиться [здесь](https://gist.github.com/Jekins/2bf2d0638163f1294637 "Руководство Markdown").
+fdsf
+dgfdf
+g
+dfgdfgsdfgdfg
+
+dg
+df
+g
+dfsg
+fd
+g
+sdfg
+d
+sfggi
